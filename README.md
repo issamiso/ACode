@@ -1,6 +1,6 @@
 # ACode
 ## Code editor for Android 
-
+### version 1.8.2
 <img src="https://github.com/issamiso/ACode/raw/main/Acode.png">
 
 
